@@ -17,11 +17,11 @@ To install all the dependences of the project, run the following command:
 
 
 #### Source Code:
- - Link : https://github.com/shakti1590/React-Calculator
+ - Link : https://github.com/tejasbhamare129/React-Calculator?tab=readme-ov-file
 
 
 #### Deployment Link:
- - Link : https://react-calculator-omega-navy.vercel.app/
+ - Link : https://react-tejascalculator.vercel.app/
 
 
 
