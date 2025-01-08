@@ -28,7 +28,10 @@ function App() {
           </ButtonBox>
         </Wrapper>
         <footer style={footerStyle}>
-          Calculator by Tejas
+          Calc by Tejas <br />
+          <span>
+            Created by <a href="https://github.com/your-github-username" target="_blank" rel="noopener noreferrer" style={linkStyle}>Tejas</a>
+          </span>
         </footer>
       </div>
     </CalcProvider>
@@ -42,6 +45,11 @@ const footerStyle = {
   backgroundColor: '#f6f8f9',
   color: '#888',
   fontSize: '1rem',
+};
+
+const linkStyle = {
+  color: '#0077b6', // A shade of blue for the link
+  textDecoration: 'none',
 };
 
 export default App;
