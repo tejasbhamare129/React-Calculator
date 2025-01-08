@@ -28,9 +28,8 @@ function App() {
           </ButtonBox>
         </Wrapper>
         <footer style={footerStyle}>
-          Calc by Tejas <br />
           <span>
-            Created by <a href="https://github.com/your-github-username" target="_blank" rel="noopener noreferrer" style={linkStyle}>Tejas</a>
+            Created by <a href="https://github.com/tejasbhamare129" target="_blank" rel="noopener noreferrer" style={linkStyle}>Tejas</a>
           </span>
         </footer>
       </div>
