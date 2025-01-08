@@ -61,3 +61,28 @@ body {
 .opt {
   background: #f79505;
 }
+
+.footer {
+  text-align: center;
+  margin-top: 2rem;
+  padding: 1rem;
+  font-family: 'Roboto', sans-serif;
+  font-size: 1rem;
+  color: #333;
+}
+
+.footer a {
+  color: #4bd086;  /* Green color for the link */
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.footer a:hover {
+  text-decoration: underline;
+}
+
+.footer p {
+  margin: 0;
+  font-size: 0.9rem;
+  color: #666;  /* Lighter color for the text */
+}
